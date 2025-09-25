@@ -1,5 +1,8 @@
 ## Hi there 👋
 
+- 🔭 I’m currently working on a data dashboard about lifestyle factors.
+- 🌱 I’m currently learning data science techniques.
+- 📫 How to reach me: mbalawejder.contact@gmail.com
 <!--
 **MiloszBalawejder/MiloszBalawejder** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
